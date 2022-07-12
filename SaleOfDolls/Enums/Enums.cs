@@ -1,4 +1,4 @@
-﻿namespace SaleOfDolls.Enuns
+﻿namespace SaleOfDolls.Enums
 {
     public enum Hair
     {

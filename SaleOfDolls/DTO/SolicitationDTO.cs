@@ -1,4 +1,4 @@
-﻿using SaleOfDolls.Enuns;
+﻿using SaleOfDolls.Enums;
 
 namespace SaleOfDolls.DTO
 {
